@@ -1,7 +1,5 @@
 ## Investigation: Telehealth apps for opioid addiction treatment and recovery
 
-# Investigation Xoth: Location Trackers
-
 This repository contains the results of a July 2021 investigation into Android apps that are utilized for opioid addiction treatment and recovery. This research was conducted by Sean O'Brien with the aid of Esther Onfroy of the [Defensive Lab Agency](https://defensive-lab.agency). Findings are described on [the DSL website](https://www.expressvpn.com/digital-security-lab/opioid-telehealth-research).
 
 We encourage users to independently validate the investigation results. This information is released for consumer awareness only and should be interpreted by security professionals.
