@@ -36,4 +36,4 @@ Inside every directory of findings about each app, you will find:
 
 ## Contact
 
-If you have any questions or suggestions regarding these findings, email us at digital-security-lab@expressvpn.com.
+If you have any questions or suggestions regarding these findings, email sean.obrien@yale.edu.
